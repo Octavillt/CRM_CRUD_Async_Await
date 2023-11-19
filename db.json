@@ -1,0 +1,18 @@
+{
+  "clientes": [
+    {
+      "nombre": "Octavio Villafranco",
+      "email": "correo2@correo.com",
+      "telefono": "423534534",
+      "empresa": "321432",
+      "id": 1
+    },
+    {
+      "nombre": "Israel",
+      "email": "isra@correo.com",
+      "telefono": "4165464869",
+      "empresa": "Israel's",
+      "id": 2
+    }
+  ]
+}
